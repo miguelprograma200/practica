@@ -5,7 +5,116 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Proyecto de [Nombre del Proyecto] 🚀</title>
-  <link rel="stylesheet" href="styles.css">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+
+    header {
+      background-color: #4CAF50;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+    }
+
+    header .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    header h1 {
+      font-size: 3rem;
+    }
+
+    header p {
+      font-size: 1.2rem;
+    }
+
+    section {
+      padding: 20px;
+      margin: 20px 0;
+      background-color: #fff;
+      border-radius: 8px;
+    }
+
+    h2 {
+      color: #4CAF50;
+      margin-bottom: 10px;
+    }
+
+    ul {
+      list-style: none;
+      padding-left: 20px;
+    }
+
+    ul li {
+      margin: 5px 0;
+    }
+
+    .badges img {
+      margin: 5px;
+    }
+
+    .social img {
+      margin: 5px;
+    }
+
+    ol {
+      padding-left: 20px;
+    }
+
+    .contributors-list {
+      display: flex;
+      justify-content: space-around;
+    }
+
+    .contributor {
+      text-align: center;
+      margin: 10px;
+    }
+
+    .contributor img {
+      border-radius: 50%;
+      width: 100px;
+      height: 100px;
+      border: 3px solid #4CAF50;
+    }
+
+    .contributor p {
+      margin-top: 10px;
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 10px;
+    }
+
+    footer p {
+      font-size: 1rem;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .diagram img {
+      max-width: 100%;
+      border-radius: 8px;
+    }
+
+  </style>
 </head>
 <body>
   <header>
