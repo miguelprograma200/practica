@@ -1,16 +1,15 @@
-<div align="center">
+<div align="center" >
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="horizontal divider">
 </div>
 
 <div align="center" style="background-color:#f2f2f2; padding: 20px; border-radius: 10px;">
 
-  <h1 style="color:#6c63ff;"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>Proyecto de Gestión de Tareas <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></h1>
-  <h3>Una herramienta simple y poderosa para impulsar productividad.</h3>
+  <div><h1><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>Proyecto de Gestión de Tareas<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></h1><div>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=una+herranienta+simple+y..&hearts;++;poderosa+para+impulsar,;productividad.,;"></a
 </div>
 
 <div align="center">
-  <img src="https://c.tenor.com/C9m66cW2_hAAAAAi/productivity-task.gif" alt="Task Management GIF" width="300" style="border-radius: 10px;"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="horizontal divider">
 </div>
 
 ## Descripción del Proyecto
