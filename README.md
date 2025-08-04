@@ -42,14 +42,14 @@ Gracias a los siguientes colaboradores por su esfuerzo y contribuciones al proye
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
   <div style="text-align: center;">
-    <img src="https://avatars.githubusercontent.com/u/21140965?v=4" alt="Joker627" width="100px" style="border-radius:50%; border: 3px solid #6c63ff;"/>
+    <img src="https://avatars.githubusercontent.com/u/73049543?u=3232e134ce81ae4eaca8d0c5500b633d4b6bf744&v=4" alt="Joker627" width="100px" style="border-radius:50%; border: 3px solid #6c63ff;"/>
     <h4 style="color:#6c63ff;">Joker627</h4>
     <p>Desarrollo de funcionalidades</p>
   </div>
 
   <div style="text-align: center;">
-    <img src="https://avatars.githubusercontent.com/u/73049543?u=3232e134ce81ae4eaca8d0c5500b633d4b6bf744&v=4" alt="Colaborador 2" width="100px" style="border-radius:50%; border: 3px solid #6c63ff;"/>
-    <h4 style="color:#6c63ff;">Usuario1</h4>
+    <img src="https://avatars.githubusercontent.com/u/201408448?v=4" alt="migue 2" width="100px" style="border-radius:50%; border: 3px solid #6c63ff;"/>
+    <h4 style="color:#6c63ff;">Miguel</h4>
     <p>Desarrollo de la interfaz</p>
   </div>
 
