@@ -3,7 +3,8 @@
 </div>
 
 <div align="center" style="background-color:#f2f2f2; padding: 20px; border-radius: 10px;">
-  <h1 style="color:#6c63ff;">✨🚀 Proyecto de Gestión de Tareas 🚀✨</h1>
+
+  <h1 style="color:#6c63ff;"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>Proyecto de Gestión de Tareas <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></h1>
   <h3>Una herramienta simple y poderosa para impulsar tu productividad.</h3>
 </div>
 
@@ -23,7 +24,35 @@ Este es un proyecto colaborativo para desarrollar una aplicación web de gestió
 ---
 
 ## 🛠️ **Tecnologías Utilizadas**
-<!-- Continúa con las tecnologías, ya las tienes -->
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
+
+
+<!-- Connect with me -->
+
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <span> 
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</span>
+  </ul>
+</div>
+
 
 ---
 
