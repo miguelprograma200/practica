@@ -71,7 +71,7 @@ Gracias a los siguientes colaboradores por su esfuerzo y contribuciones al proye
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
   <div style="text-align: center;">
-    <img src="https://avatars.githubusercontent.com/u/73049543?u=3232e134ce81ae4eaca8d0c5500b633d4b6bf744&v=4" alt="Joker627" width="100px" style="border-radius:50%; border: 3px solid #6c63ff;"/>
+    <img src="https://avatars.githubusercontent.com/u/73049543?u=3232e134ce81ae4eaca8d0c5500b633d4b6bf744&v=4" alt="Joker627" width="100px" style="border-radius:50%; border: 6px solid #6c63ff;"/>
     <h4 style="color:#6c63ff;">Joker627</h4>
     <p>Desarrollo de funcionalidades</p>
   </div>
